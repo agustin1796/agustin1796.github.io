@@ -15,7 +15,6 @@ section.caja1{
     left:314px;
     width:max-content;
     height: max-content;
-    z-index: 1;
 }
 
 section.caja2{
@@ -23,9 +22,9 @@ section.caja2{
     height:1300px;
     width:320px;
     display: inline-block;
-    position: absolute;
-    left: 1px;
-    z-index: 2;
+    position: relative;
+    bottom: 40px;
+    right: 750px;
     
     
 }
