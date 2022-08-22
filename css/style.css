@@ -25,6 +25,7 @@ section.caja2{
     position: relative;
     bottom: 40px;
     right: 750px;
+    z-index: 2;
     
     
 }
